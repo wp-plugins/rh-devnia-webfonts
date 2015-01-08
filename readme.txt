@@ -34,13 +34,9 @@ A few notes about the sections above:
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= my site in not arabic can i use it? =
 
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+no you can use it if your site in arabic .
 
 == Screenshots ==
 
