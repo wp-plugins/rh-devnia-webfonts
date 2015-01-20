@@ -46,7 +46,8 @@ add_action('wp_head','font_style');
 //*************** design css ***************
 function ui_kit() {
 wp_enqueue_style('bootstrap-css', plugins_url('bootstrap/css/bootstrap.css', __FILE__));
-wp_enqueue_style('flat-ui-kit', plugins_url('css/flat-ui.css', __FILE__));
+wp_enqueue_script('newscript','https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js' , __FILE__ );
+wp_enqueue_script('fonts',plugins_url( 'fonts.js' , __FILE__ ));
 }
 add_action('admin_print_styles', 'ui_kit');
 //*************** Admin function ***************
