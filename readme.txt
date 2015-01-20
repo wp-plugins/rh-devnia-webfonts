@@ -4,7 +4,7 @@ Tags: web fonts, fonts, arabic, bootstrap
 Requires at least: 3.9
 Donate link: 
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,7 @@ A few notes about the sections above:
 *   with out change any thing or write code in theme
 *   just choose font and save option
 *   fonts are hosted by maxcdn and files will dont lose or be offline
+*   you can preview font after select
 *   tetsed up to wordpress 4.1
 
 
@@ -38,9 +39,9 @@ A few notes about the sections above:
 
 An answer to that question.
 
-= What about foo bar? =
+= my site in not arabic can i use it? =
 
-Answer to foo bar dilemma.
+no you can use it if your site in arabic .
 
 == Screenshots ==
 
@@ -51,6 +52,9 @@ Answer to foo bar dilemma.
 no thing here...
 
 == Changelog ==
+
+= 2.0 =
+* add preview font in admin.
 
 = 1.0 =
 * First plugin release.
