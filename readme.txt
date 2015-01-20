@@ -35,9 +35,6 @@ A few notes about the sections above:
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-
-An answer to that question.
 
 = my site in not arabic can i use it? =
 
